@@ -1,2 +1,0 @@
-# semaforo
-Entrega de laboratorio. 
